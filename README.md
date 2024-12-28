@@ -1,6 +1,13 @@
 # BomgeMoon
 OPL3 sound card for ZX Spectrum
 
+Revision 3  
+- Edge коннектор сделан шире.  
+- Увеличены отверстия под 3.5 джек.
+- Исправлен шелк.
+
+
+
 **BOM**  
 - DD1    YMF262-M    SOJ-24 
 - DD2    GAL16V8     DIP-20
